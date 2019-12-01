@@ -1,6 +1,6 @@
 # Forkify Application
 
-Forkify is a food recipie application.
+Forkify is a food recipie search application.
 [Click here to visit](https://forkify.meetramin.com/)
 
 ![](Screenshot.png)
